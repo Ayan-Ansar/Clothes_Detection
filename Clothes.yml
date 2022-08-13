@@ -1,0 +1,6 @@
+train: ../FashionDetect/images/train/
+val: ../FashionDetect/images/test
+
+nc: 30
+
+names: ['abrigos', 'anillos', 'bolso', 'botas', 'bufandas', 'calcetines y medias', 'camisas', 'camisas ocultas debajo de la chaqueta', 'carteras monederos', 'cazadoras', 'chaquetas', 'cinturones', 'collares', 'corbatas', 'falda', 'gafas de sol', 'guantes y manopla', 'mochilas', 'monos', 'pantalones', 'pantalones cortos', 'pendientes', 'pulseras', 'relojes', 'ropa interior', 'sombreros', 'trajes de baño', 'undefined', 'vestidos', 'zapatos']
