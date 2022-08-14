@@ -1,5 +1,5 @@
 train: ../FashionDetect/images/train/
-val: ../FashionDetect/images/test
+val: ../FashionDetect/images/test/
 
 nc: 30
 
